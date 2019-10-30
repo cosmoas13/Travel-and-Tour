@@ -1,0 +1,162 @@
+c:\users\awildanrizkyr\documents\visual studio 2015\Projects\AzureDevK\AzureDevK\bin\Debug\AzureDevK.exe.config
+c:\users\awildanrizkyr\documents\visual studio 2015\Projects\AzureDevK\AzureDevK\obj\Debug\AzureDevK.csprojResolveAssemblyReference.cache
+c:\users\awildanrizkyr\documents\visual studio 2015\Projects\AzureDevK\AzureDevK\obj\Debug\AzureDevK.Properties.Resources.resources
+c:\users\awildanrizkyr\documents\visual studio 2015\Projects\AzureDevK\AzureDevK\obj\Debug\AzureDevK.csproj.GenerateResource.Cache
+c:\users\awildanrizkyr\documents\visual studio 2015\Projects\AzureDevK\AzureDevK\bin\Debug\AzureDevK.exe
+c:\users\awildanrizkyr\documents\visual studio 2015\Projects\AzureDevK\AzureDevK\bin\Debug\AzureDevK.pdb
+c:\users\awildanrizkyr\documents\visual studio 2015\Projects\AzureDevK\AzureDevK\obj\Debug\AzureDevK.FrmLogin.resources
+c:\users\awildanrizkyr\documents\visual studio 2015\Projects\AzureDevK\AzureDevK\obj\Debug\AzureDevK.exe
+c:\users\awildanrizkyr\documents\visual studio 2015\Projects\AzureDevK\AzureDevK\obj\Debug\AzureDevK.pdb
+c:\users\awildanrizkyr\documents\visual studio 2015\Projects\AzureDevK\AzureDevK\obj\Debug\AzureDevK.FrmUtama.resources
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevK\AzureDevK\obj\Debug\AzureDevK.FrmPemesanan.resources
+C:\Users\AWildanRizkyR\documents\visual studio 2015\Projects\AzureDevK\AzureDevK\obj\Debug\AzureDevK.FormPelanggan.resources
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevK\AzureDevK\obj\Debug\AzureDevK.frmDetailPenjualan.resources
+C:\Users\Kevin\Downloads\AzureDevK\AzureDevK\bin\Debug\AzureDevK.exe.config
+C:\Users\Kevin\Downloads\AzureDevK\AzureDevK\obj\Debug\AzureDevK.exe
+C:\Users\Kevin\Downloads\AzureDevK\AzureDevK\obj\Debug\AzureDevK.pdb
+C:\Users\Kevin\Downloads\AzureDevK\AzureDevK\bin\Debug\AzureDevK.exe
+C:\Users\Kevin\Downloads\AzureDevK\AzureDevK\bin\Debug\AzureDevK.pdb
+C:\Users\Kevin\Downloads\AzureDevK\AzureDevK\obj\Debug\AzureDevK.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Downloads\AzureDevK\AzureDevK\obj\Debug\AzureDevK.FormPelanggan.resources
+C:\Users\Kevin\Downloads\AzureDevK\AzureDevK\obj\Debug\AzureDevK.frmDatTrav.resources
+C:\Users\Kevin\Downloads\AzureDevK\AzureDevK\obj\Debug\AzureDevK.frmDetailPenjualan.resources
+C:\Users\Kevin\Downloads\AzureDevK\AzureDevK\obj\Debug\AzureDevK.FrmLogin.resources
+C:\Users\Kevin\Downloads\AzureDevK\AzureDevK\obj\Debug\AzureDevK.FrmPemesanan.resources
+C:\Users\Kevin\Downloads\AzureDevK\AzureDevK\obj\Debug\AzureDevK.FrmUtama.resources
+C:\Users\Kevin\Downloads\AzureDevK\AzureDevK\obj\Debug\AzureDevK.Properties.Resources.resources
+C:\Users\Kevin\Downloads\AzureDevK\AzureDevK\obj\Debug\AzureDevK.csproj.GenerateResource.Cache
+C:\Users\Kevin\Downloads\AzureDevK\AzureDevK\obj\Debug\AzureDevK.frmDatKend.resources
+C:\Users\AWildanRizkyR\Desktop\AzureDevK\AzureDevK\bin\Debug\AzureDevK.exe.config
+C:\Users\AWildanRizkyR\Desktop\AzureDevK\AzureDevK\obj\Debug\AzureDevK.exe
+C:\Users\AWildanRizkyR\Desktop\AzureDevK\AzureDevK\obj\Debug\AzureDevK.pdb
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe.config
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.exe
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.pdb
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.pdb
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.csprojResolveAssemblyReference.cache
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FormPelanggan.resources
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDatKend.resources
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDatTrav.resources
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDetailPenjualan.resources
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmLogin.resources
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmPemesanan.resources
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmUtama.resources
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.Properties.Resources.resources
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.csproj.GenerateResource.Cache
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\bin\Debug\MySql.Data.dll
+C:\Users\AWildanRizkyR\Documents\Visual Studio 2015\Projects\AzureDevKver2A\AzureDevK\bin\Debug\MySql.Data.xml
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe.config
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.exe
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.pdb
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.pdb
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\bin\Debug\MySql.Data.dll
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\bin\Debug\MySql.Data.xml
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.csprojResolveAssemblyReference.cache
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FormPelanggan.resources
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDatKend.resources
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDatTrav.resources
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDetailPenjualan.resources
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmLogin.resources
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmPemesanan.resources
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmUtama.resources
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.Properties.Resources.resources
+D:\VISUAL\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe.config
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.exe
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.pdb
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.pdb
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\bin\Debug\mscorlib.dll
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\bin\Debug\System.Net.Http.dll
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\bin\Debug\System.Net.Http.xml
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\bin\Debug\normidna.nlp
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\bin\Debug\normnfc.nlp
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\bin\Debug\normnfd.nlp
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\bin\Debug\normnfkc.nlp
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\bin\Debug\normnfkd.nlp
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FormPelanggan.resources
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDatKend.resources
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDatTrav.resources
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDetailPenjualan.resources
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmLogin.resources
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmPemesanan.resources
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmUtama.resources
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.Properties.Resources.resources
+C:\Users\user\Downloads\VISUALKU\New folder\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.csproj.GenerateResource.Cache
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe.config
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.exe
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.pdb
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.pdb
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\mscorlib.dll
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\System.Net.Http.dll
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\System.Net.Http.xml
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\normidna.nlp
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\normnfc.nlp
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\normnfd.nlp
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\normnfkc.nlp
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\normnfkd.nlp
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.csprojResolveAssemblyReference.cache
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FormPelanggan.resources
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDatKend.resources
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDatTrav.resources
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDetailPenjualan.resources
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmLogin.resources
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmPemesanan.resources
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmUtama.resources
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.Properties.Resources.resources
+A:\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.csproj.GenerateResource.Cache
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe.config
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.exe
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.pdb
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.pdb
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\MySql.Data.dll
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\MySql.Data.xml
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.csprojResolveAssemblyReference.cache
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FormPelanggan.resources
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDatKend.resources
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDatTrav.resources
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDetailPenjualan.resources
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmLogin.resources
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmPemesanan.resources
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmUtama.resources
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.Properties.Resources.resources
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.csproj.GenerateResource.Cache
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.PreviewDataPelanggan.resources
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe.manifest
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.application
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.exe.manifest
+D:\VISUAL\Fix Little Touch to Finish Visual\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.application
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe.config
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.exe
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.pdb
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe.manifest
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.application
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.pdb
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\bin\Debug\MySql.Data.dll
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\bin\Debug\MySql.Data.xml
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.csprojResolveAssemblyReference.cache
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FormPelanggan.resources
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDatKend.resources
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDatTrav.resources
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.frmDetailPenjualan.resources
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmLogin.resources
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmPemesanan.resources
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.FrmUtama.resources
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.PreviewDataPelanggan.resources
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.Properties.Resources.resources
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.csproj.GenerateResource.Cache
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.exe.manifest
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.application
+D:\Wildan\Tugas Kelompok Web\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.PreviewDataPemesanan.resources
+C:\Users\Kevin\Downloads\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe.config
+C:\Users\Kevin\Downloads\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.exe
+C:\Users\Kevin\Downloads\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.pdb
+D:\VISUAL\AzureDevKver2A\AzureDevK\bin\Debug\AzureDevK.exe.config
+D:\VISUAL\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.exe
+D:\VISUAL\AzureDevKver2A\AzureDevK\obj\Debug\AzureDevK.pdb
